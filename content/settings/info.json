@@ -1,0 +1,22 @@
+{
+  "localID": {
+    "foundingDate": "2020-12-24T20:13:38.152Z",
+    "type": "CNPJ",
+    "legalName": ""
+  },
+  "email": {
+    "address": "saluconfeitariaartesanal@gmail.com",
+    "subject": "Contato"
+  },
+  "phone": {
+    "number": "+5527995161901",
+    "display": "27 99516-1901",
+    "message": "Salu Confeitaria, eu sou"
+  },
+  "address": {
+    "display": "Online",
+    "locality": "Shopping Vitória, Vitória",
+    "region": "ES",
+    "country": "Brasil"
+  }
+}
